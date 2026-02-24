@@ -15,7 +15,7 @@ import {
 // --- CONFIGURATION ---
 // In production, set VITE_GEMINI_API_KEY in Netlify Environment Variables
 const API_KEY = import.meta.env.VITE_GEMINI_API_KEY || "";
-const TEXT_MODEL = "gemini-2.5-flash-preview-04-17";
+const TEXT_MODEL = "gemini-2.5-flash-preview-05-20";
 const IMAGE_MODEL = "imagen-3.0-generate-002";
 
 // --- LOGO COMPONENT ---
